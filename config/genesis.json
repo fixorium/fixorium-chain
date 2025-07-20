@@ -1,1 +1,15 @@
+{
+  "chain_id": "fixorium-devnet",
+  "app_state": {
+    "bank": {
+      "balances": [
+        {
+          "address": "YOUR_GENESIS_WALLET_ADDRESS",
+          "coins": [{ "denom": "fixorium", "amount": "100000000000" }]
+        }
+      ],
+      "supply": [{ "denom": "fixorium", "amount": "100000000000" }]
+    }
+  }
+}
 
